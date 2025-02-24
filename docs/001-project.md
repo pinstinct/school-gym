@@ -10,7 +10,7 @@
 
 ## Code Convention
 
-프로젝트에 포함된 intellij-java-google-style.xml 파일을 이용해 포맷팅을 한다.
+구글 자바 포맷을 사용하며, 프로젝트에 포함된 intellij-java-google-style.xml 파일을 이용해 포맷팅을 한다.
 
 - Settings - Editor - Code Style - Java 메뉴로 이동
 - Schema 옆 톱니바퀴 Import Schema - Intellij IDEA Code Style XML 클릭 후, 위의 파일을 클릭
