@@ -16,3 +16,11 @@
 - Schema 옆 톱니바퀴 Import Schema - Intellij IDEA Code Style XML 클릭 후, 위의 파일을 클릭
 
 코드를 작성 후 Code - Reformat Code 실행 후 커밋한다.
+
+## Todo
+
+- todo-001 브랜치: ~3월 3일 까지
+  - 아래의 사이트를 참고해 End Point가 작동하도록 작업한다.
+    - Ref: [[JAVA] jsoup을 이용해서 웹 스크래핑 하는 방법](https://hyeonju0121.tistory.com/73)
+    - End Point: http://localhost:8080/gym
+  - 작업 위치: main/java/com/example/app/crawling/MyungIlMiddleSchool getNotice() 메서드
