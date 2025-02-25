@@ -5,8 +5,6 @@
 - Java 23
 - Spring Boot 3.4.3
 
-[Spring initializer](https://start.spring.io)에서 원하는 옵션을 선택후 Generate 버튼을 통해 프로젝트를 다운 받는다.
-
 ### Dependencies
 
 - spring-boot-starter-web: 웹 애플리케이션 개발을 위한 패키지 (Spring MVC, Tomcat, Jackson 등 웹 개발에 필요한 라이브러리를 포함)
