@@ -53,7 +53,7 @@ git checkout -b branch-name
 ## Reference
 
 - [[GIT] 📈 깃 브랜치 전략 정리](https://inpa.tistory.com/entry/GIT-⚡%EF%B8%8F-github-flow-git-flow-📈-브랜치-전략#)
-- [Git에서 머지 충돌을
+- [Git에서 머지 충돌을 해결하는 방법과 실용 예시](https://www.freecodecamp.org/korean/news/how-to-resolve-merge-conflicts-in-git/)
 
 
 # Todo
